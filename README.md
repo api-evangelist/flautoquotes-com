@@ -64,16 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Florida Insurance provides auto insurance quotes in Florida by connecting users with licensed agents. The platform gathers vehicle and driver information, then presents multiple competing quotes, allowing users to compare coverage options and prices. It emphasizes privacy, does not sell data without consent, and offers a straightforward quoting process via phone or text.
+Flautoquotes.com is a CoverIntent service powered by TheChattyAI, offering real-time auto insurance quotes across multiple U.S. states. The platform connects consumers with licensed agents who can finalize policies, handling consent, data use, and privacy transparently. It provides a RESTful API (OpenAPI) for quote retrieval, verification, and agent interaction, and publishes its terms, privacy policy, and registration portal publicly.
 
-**Areas:** Insurance · Auto · Quotes · Florida · Marketplace
+**Areas:** Company · Insurance · Auto · Quotes · Fintech · API
 
 ## flautoquotes-com on APIs.io
 
 Everything profiled for flautoquotes-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/flautoquotes-com/](https://apis.io/providers/flautoquotes-com/)** — or go straight to one of the APIs or properties below.
 
-### APIs (2)
+### APIs (3)
 
+- [flautoquotes-com Contact API](https://apis.io/apis/flautoquotes-com/flautoquotes-com-contact-api/) — The Contact API from flautoquotes-com — 1 operation(s) for contact.
 - [flautoquotes-com Eligibility API](https://apis.io/apis/flautoquotes-com/flautoquotes-com-eligibility-api/) — The Eligibility API from flautoquotes-com — 1 operation(s) for eligibility.
 - [flautoquotes-com Quotes API](https://apis.io/apis/flautoquotes-com/flautoquotes-com-quotes-api/) — The Quotes API from flautoquotes-com — 1 operation(s) for quotes.
 
@@ -105,23 +106,24 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://flautoquotes.com/)
 - [API reference](https://flautoquotes.com/openapi.json)
-- [Terms of service](https://flautoquotes.com/v1/terms)
+- [Sign up](https://flautoquotes.com/join)
+- [Terms of service](https://flautoquotes.com/terms)
 - [Privacy policy](https://flautoquotes.com/privacy)
 
 ## API Evangelist rating
 
-**Kin Score 29.2** — thin · rubric 0.25.0 · scored 2026-10-30
+**Kin Score 33.2** — thin · rubric 0.25.0 · scored 2026-10-30
 
 | Facet | Score |
 |---|---|
-| Discoverability | 61.7 |
-| Contract quality | 38.0 |
+| Discoverability | 65.0 |
+| Contract quality | 37.1 |
 | Contract governance | 65.5 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 7.1 |
-| Access clarity | 21.1 |
+| Developer ergonomics | 13.6 |
+| Access clarity | 34.2 |
 
-**Agent readiness 31.9** — agent-ready
+**Agent readiness 35.1** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -135,7 +137,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | — |
+| Agent Skills | unknown |
 | Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | conformant |
